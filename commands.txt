@@ -1,0 +1,4 @@
+echo "This is first command in the chain"
+echo "Sleeping for 10 seconds" && sleep 10
+echo "This is third command"
+
